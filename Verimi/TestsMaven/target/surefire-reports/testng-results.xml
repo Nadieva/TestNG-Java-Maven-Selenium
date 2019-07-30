@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="23185" started-at="2019-07-29T09:35:59Z" finished-at="2019-07-29T09:36:23Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="23185" started-at="2019-07-29T09:35:59Z" finished-at="2019-07-29T09:36:23Z">
+      <class name="com.qa.tests.TestNG">
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.TestNG@7f63425a]" name="sum" duration-ms="0" started-at="2019-07-29T11:35:59Z" finished-at="2019-07-29T11:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.TestNG -->
+      <class name="com.qa.tests.AppTest">
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.AppTest@3f3afe78]" name="sum" duration-ms="13" started-at="2019-07-29T11:35:59Z" finished-at="2019-07-29T11:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.AppTest -->
+      <class name="com.verimi.TestsMaven.VerimiTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.verimi.TestsMaven.VerimiTest@36d64342]" name="beforeMethod" is-config="true" duration-ms="9694" started-at="2019-07-29T11:35:59Z" finished-at="2019-07-29T11:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:com.verimi.TestsMaven.VerimiTest@36d64342]" name="main" duration-ms="8290" started-at="2019-07-29T11:36:09Z" finished-at="2019-07-29T11:36:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.verimi.TestsMaven.VerimiTest@36d64342]" name="afterMethod" is-config="true" duration-ms="5158" started-at="2019-07-29T11:36:17Z" finished-at="2019-07-29T11:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.verimi.TestsMaven.VerimiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
