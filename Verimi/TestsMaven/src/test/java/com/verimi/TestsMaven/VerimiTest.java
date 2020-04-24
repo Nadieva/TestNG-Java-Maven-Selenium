@@ -19,8 +19,8 @@ public class VerimiTest {
 	
 	public WebDriver driver;
 	public String geckodriverPath="C:\\geckodriver.exe";
-	public String email="nadia.monayongmedjo@gmail.com";
-	public String password="Test_123";
+	public String email="your_email";
+	public String password="your_password";
 	  @Test
 	  public void main() throws InterruptedException, AWTException {
 		  
