@@ -14,4 +14,4 @@ Testing if logging on the Veremi account has been succesful
 A new browser page is opened.Another one is opened where credentials are entered and the login button is submitted automatically. 
 Both windows are closed and successful authentication is asserted in the Eclipse console.
 
-**Note: please make sure to have TestNG and Selenium installed
+** Note: please make sure to have TestNG and Selenium installed
